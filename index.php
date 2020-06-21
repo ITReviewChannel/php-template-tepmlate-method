@@ -28,7 +28,7 @@ abstract class Beverage
     }
 
     /**
-     * Добавление ингредиетов.
+     * Добавление ингредиентов.
      */
     abstract protected function addIngredients(): void;
 
